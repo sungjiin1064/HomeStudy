@@ -1,0 +1,20 @@
+﻿  Variable.c
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 2개가 제공되었습니다.
+      C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(35,9):
+      누락된 variadic 인수 3이(가) 서식 문자열 '%d'에 필요합니다.
+  
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(36,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(36,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) int' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(36,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(36,9):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 2개가 제공되었습니다.
+      C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(36,9):
+      누락된 variadic 인수 3이(가) 서식 문자열 '%s'에 필요합니다.
+  
+  Ch1.vcxproj -> C:\Users\user\Desktop\GameProgramming\C\CStudy\x64\Debug\Ch1.exe
