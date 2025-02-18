@@ -6,8 +6,7 @@
       "AbsoluteMoniker": "D:0:0:{C1799EE7-7251-48D0-B15D-A5E9CD270951}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AFE6AB4-2CC5-4246-8C56-9DEDE5E2995F}|CStudy.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1AFE6AB4-2CC5-4246-8C56-9DEDE5E2995F}|CStudy.vcxproj|solutionrelative:HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B8297E8-46A6-4BA6-BEE3-8FD95C476958}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +21,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\HelloWorld.cpp",
-              "RelativeDocumentMoniker": "HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\HelloWorld.cpp",
-              "RelativeToolTip": "HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-17T11:20:28.482Z",
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
+              "RelativeDocumentMoniker": "..\\Ch2\\Main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
+              "RelativeToolTip": "..\\Ch2\\Main.c",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T10:28:34.445Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeToolTip": "..\\Ch1\\Variable.c",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T11:17:41.421Z",
+              "WhenOpened": "2025-02-18T11:46:26.428Z",
               "EditorCaption": ""
             }
           ]
