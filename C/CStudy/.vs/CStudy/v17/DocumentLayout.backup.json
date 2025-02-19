@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{012542E9-4286-4EB8-9FCF-0553F0B7F9D2}|..\\Operator\\Operator.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1799EE7-7251-48D0-B15D-A5E9CD270951}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,13 +23,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
               "RelativeDocumentMoniker": "..\\Ch2\\Main.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
               "RelativeToolTip": "..\\Ch2\\Main.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-18T10:28:34.445Z",
               "IsPinned": true,
@@ -35,12 +38,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c",
+              "RelativeDocumentMoniker": "..\\Operator\\main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c*",
+              "RelativeToolTip": "..\\Operator\\main.c*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T10:45:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c*",
-              "RelativeToolTip": "..\\Ch1\\Variable.c*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDoAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
+              "RelativeToolTip": "..\\Ch1\\Variable.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-18T11:46:26.428Z",
               "EditorCaption": ""

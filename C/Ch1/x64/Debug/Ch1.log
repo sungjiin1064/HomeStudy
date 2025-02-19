@@ -1,4 +1,2 @@
 ﻿  Variable.c
-C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(47,6): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
-C:\Users\user\Desktop\GameProgramming\C\Ch1\Variable.c(47,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
   Ch1.vcxproj -> C:\Users\user\Desktop\GameProgramming\C\CStudy\x64\Debug\Ch1.exe
