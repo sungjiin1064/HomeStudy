@@ -41,8 +41,7 @@
               "RelativeToolTip": "..\\Ch2\\Main.c",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T17:34:53.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T17:34:53.604Z"
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "RelativeToolTip": "..\\Operator\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T17:34:37.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T17:34:37.058Z"
             },
             {
               "$type": "Document",
@@ -67,8 +65,7 @@
               "RelativeToolTip": "..\\Ch1\\Variable.c",
               "ViewState": "AgIAACIAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T15:08:00.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T15:08:00.409Z"
             },
             {
               "$type": "Document",
@@ -76,9 +73,9 @@
               "Title": "psj.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c",
               "RelativeDocumentMoniker": "..\\Ch4\\psj.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c",
-              "RelativeToolTip": "..\\Ch4\\psj.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c*",
+              "RelativeToolTip": "..\\Ch4\\psj.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-24T14:56:34.213Z",
               "EditorCaption": ""
@@ -93,8 +90,7 @@
               "RelativeToolTip": "..\\Ch6\\main( if ).c",
               "ViewState": "AgIAAGAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T11:55:00.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T11:55:00.941Z"
             }
           ]
         }
