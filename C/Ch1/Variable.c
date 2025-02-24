@@ -34,6 +34,14 @@ int main()
 	int mH2 = mH1 - playerAttackPower;
 	int pH1 = pH - monsterAttackPower;
 
+
+
+	
+	if (mH1 <= 0)
+	{
+		printf("몬스터가 사망하였습니다\n");
+	}
+
 	
 	printf("%s가 숲을 지나가다 %s을 만났습니다.\n", "슬레이어", "슬라임");
 	printf("\n");
@@ -48,7 +56,9 @@ int main()
 	printf("%s의 체력이 %d 남았습니다.\n", "슬레이어", pH);
 	printf("%s가 공격하여 %d 데미지를 주었습니다.\n", "슬레이어", playerAttackPower);
 	printf("%s의 체력이 %d 남았습니다.\n", "슬라임", mH1);
-		// 위에 마이너스가 안뜨고 0이뜨게. (0이되면 사망이라는 문구뜨게하기, 경험치 획득)
+
+
+	// 위에 마이너스가 안뜨고 0이뜨게. (0이되면 사망이라는 문구뜨게하기, 경험치 획득)
 	printf("몬스터가 전리품을 떨구었습니다.\n");
 	printf("전리품을 획득하시겠습니까? y or n\n");
 
