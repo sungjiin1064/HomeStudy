@@ -97,7 +97,7 @@ int main()
 
 	printf("랜덤 숫자 맞추기게임\n");
 	printf("숫자 범위 0 ~ 100\n");
-	srand(time(NULL));
+	srand(time(NULL));           
 
 	int randomNumber = rand() % 101;
 
@@ -126,6 +126,7 @@ int main()
 
 
 
+	
 
 
 

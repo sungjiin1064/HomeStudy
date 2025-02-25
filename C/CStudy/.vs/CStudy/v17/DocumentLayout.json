@@ -3,16 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89F679DF-C343-4C74-9735-BA8C2303BFD7}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B8297E8-46A6-4BA6-BEE3-8FD95C476958}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{012542E9-4286-4EB8-9FCF-0553F0B7F9D2}|..\\Operator\\Operator.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4CC62383-A290-4ACE-A1E5-2C1F1B2111DF}|Ch7\\Ch7.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\Ch7\\for-while.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CC62383-A290-4ACE-A1E5-2C1F1B2111DF}|Ch7\\Ch7.vcxproj|solutionrelative:Ch7\\for-while.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1799EE7-7251-48D0-B15D-A5E9CD270951}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F679DF-C343-4C74-9735-BA8C2303BFD7}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{325F9777-DFDD-42D7-A8B1-89E2735D57F3}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch6\\main( if ).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -25,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,63 +32,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
-              "RelativeDocumentMoniker": "..\\Ch2\\Main.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch2\\Main.c",
-              "RelativeToolTip": "..\\Ch2\\Main.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T17:34:53.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c",
-              "RelativeDocumentMoniker": "..\\Operator\\main.c",
-              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Operator\\main.c",
-              "RelativeToolTip": "..\\Operator\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T17:34:37.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch1\\Variable.c",
               "RelativeToolTip": "..\\Ch1\\Variable.c",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T15:08:00.409Z"
+              "WhenOpened": "2025-02-25T14:50:09.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "for-while.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\Ch7\\for-while.c",
+              "RelativeDocumentMoniker": "Ch7\\for-while.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\CStudy\\Ch7\\for-while.c",
+              "RelativeToolTip": "Ch7\\for-while.c",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T13:21:12.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "psj.c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c",
               "RelativeDocumentMoniker": "..\\Ch4\\psj.c",
               "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch4\\psj.c",
               "RelativeToolTip": "..\\Ch4\\psj.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-24T14:56:34.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "main( if ).c",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch6\\main( if ).c",
               "RelativeDocumentMoniker": "..\\Ch6\\main( if ).c",
               "ToolTip": "C:\\Users\\user\\Desktop\\GameProgramming\\C\\Ch6\\main( if ).c",
               "RelativeToolTip": "..\\Ch6\\main( if ).c",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAIMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T11:55:00.941Z"
+              "WhenOpened": "2025-02-24T11:55:00.941Z",
+              "EditorCaption": ""
             }
           ]
         }
