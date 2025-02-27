@@ -15,7 +15,7 @@ void SelectMenu()
 {
 	while (true)
 	{
-		system("cls");
+		//system("cls");
 		printf("1_강화한다.\n");
 		printf("2_취소한다.\n");
 		printf("3_종료한다.\n");

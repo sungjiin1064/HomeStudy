@@ -28,8 +28,8 @@ int main()
 	int monsterAttackPower = 2;
 	int playerHealth = 50;
 	int monsterHealth = 10;
-	int pH = playerHealth - monsterAttackPower;
-	int mH = monsterHealth - playerAttackPower;
+	int pH = playerHealth - monsterAttackPower * 1;
+	int mH = monsterHealth - playerAttackPower * 1;
 	int mH1 = mH - playerAttackPower;
 	int mH2 = mH1 - playerAttackPower;
 	int pH1 = pH - monsterAttackPower;
@@ -37,11 +37,7 @@ int main()
 
 
 	
-	if (mH1 <= 0)
-	{
-		printf("몬스터가 사망하였습니다\n");
-	}
-
+	
 	
 	printf("%s가 숲을 지나가다 %s을 만났습니다.\n", "슬레이어", "슬라임");
 	printf("\n");
