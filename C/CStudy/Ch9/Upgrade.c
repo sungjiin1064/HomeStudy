@@ -25,6 +25,7 @@ void ShowUpgradeMenu()
 
 		if (inputnumber == 1)
 		{
+
 			WeaponUpgrade();
 		}
 		else if (inputnumber ==2)
