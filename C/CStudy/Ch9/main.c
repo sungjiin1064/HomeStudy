@@ -32,6 +32,8 @@ int main()
 	ShowInfo();
 	system("cls");
 
+	
+
 	IsEnoughMoney(500);
 
 	//ShowExample();

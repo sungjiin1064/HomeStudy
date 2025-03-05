@@ -7,3 +7,5 @@
 extern int CurrentMoney;
 
 bool IsEnoughMoney(int amount);
+
+bool UseMoney(int price);
