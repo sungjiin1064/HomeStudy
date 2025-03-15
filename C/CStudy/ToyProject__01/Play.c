@@ -1,5 +1,11 @@
 #include "Play.h"
 
+extern int CurrentLevel = 8;
+extern int TargetLevel = 10;
+bool isClear = false;
+
+bool isFail = false;
+
 void ShowTitle()
 {
 	printf("게임이 실행중입니다..................\n");
@@ -30,7 +36,21 @@ void GameLogic()
 {
 	while (1)
 	{
+		ShowMenu();
 
+		if (isClear || isFail)
+		{
+			break;
+		}
+		if (isClear)
+		{
+			printf("Game Clear!\n");
+		}
+		if (isFail)
+		{
+			printf("Game Over!\n");
+
+		}
 	}
 }
 
@@ -38,5 +58,5 @@ void GameLoop()
 {
 	ShowTitle();
 	ShowManual();
-
+	GameLogic();
 }
